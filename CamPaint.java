@@ -6,7 +6,6 @@ import javax.swing.*;
 
 /**
  * Webcam-based drawing 
- * Scaffold for PS-1, Dartmouth CS 10, Fall 2016
  * 
  * @author Shaamil Shaw Alem, Fall 2022, PS1
  * @author Nicolás Iair Schaievitch, Fall 2022, PS1
