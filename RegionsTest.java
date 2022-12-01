@@ -6,9 +6,6 @@ import javax.swing.*;
 /**
  * Testing code for region finding in PS-1.
  * 
- * @author Chris Bailey-Kellogg, Dartmouth CS 10, Winter 2014
- * @author Travis W. Peters, Dartmouth CS 10, Updated Winter 2015
- * @author CBK, Spring 2015, updated for DrawingGUI
  * @author Shaamil Shaw Alem, Fall 2022, PS1
  * @author Nicolás Iair Schaievitch, Fall 2022, PS1
  */
