@@ -5,9 +5,6 @@ import java.util.ArrayList;
 
 /**
  * Webcam-based drawing 
- * Scaffold for PS-1, Dartmouth CS 10, Fall 2016
- * 
- * @author Chris Bailey-Kellogg, Spring 2015 (based on a different webcam app from previous terms)
  * @author Nicolás Iair Schaievitch, Fall 2022, PS1
  * @author Shaamil Shaw Alem, Fall 2022, PS1
  */
